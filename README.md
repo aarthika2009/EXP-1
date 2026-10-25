@@ -45,29 +45,38 @@ CIRCUIT DIAGRAM:
 
 a.   KVL:
  
+<img width="1300" height="777" alt="Screenshot 2026-10-24 214832" src="https://github.com/user-attachments/assets/93f316a0-f2be-4d6d-9887-6791889a9912" />
+
 
 
 b.  KCL:
  
+<img width="1558" height="770" alt="Screenshot 2026-10-24 221531" src="https://github.com/user-attachments/assets/43101f84-231b-44ba-8ead-7b87924cad02" />
 
 Calculation:
 
 a.   KVL:
  
+<img width="1118" height="1600" alt="WhatsApp Image 2026-10-12 at 10 02 09 AM" src="https://github.com/user-attachments/assets/131afa42-3106-4fef-b463-5e1789f85e6d" />
 
+<img width="1143" height="1600" alt="WhatsApp Image 2026-10-12 at 10 02 09 AM (1)" src="https://github.com/user-attachments/assets/212efe15-bdae-46f5-adad-ccfe9309ebed" />
 
 b.  KCL:
 
+<img width="989" height="1600" alt="WhatsApp Image 2026-10-12 at 10 02 09 AM (2)" src="https://github.com/user-attachments/assets/a0efe377-0cde-491d-a6e1-b87671ccefd1" />
 
+<img width="1070" height="1599" alt="WhatsApp Image 2026-10-12 at 10 02 09 AM (3)" src="https://github.com/user-attachments/assets/02221150-f537-44da-8ac0-c38ed070f8c4" />
 
 
 Tabulation:
 
 a.   KVL:
- 
+ <img width="1080" height="424" alt="WhatsApp Image 2026-10-25 at 1 30 21 PM" src="https://github.com/user-attachments/assets/099795f0-a86d-427d-a774-303cf690027a" />
+
 
 
 b.  KCL:
+<img width="1080" height="404" alt="WhatsApp Image 2026-10-25 at 1 32 07 PM" src="https://github.com/user-attachments/assets/90a69107-102b-4fb3-bb5e-4ce03008f710" />
 
 
 
